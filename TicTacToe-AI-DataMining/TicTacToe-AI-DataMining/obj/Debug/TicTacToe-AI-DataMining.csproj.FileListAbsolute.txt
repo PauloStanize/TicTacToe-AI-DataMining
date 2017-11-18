@@ -4,3 +4,4 @@ C:\Users\Paulo\Documents\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\TicTacT
 C:\Users\Paulo\Documents\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\obj\Debug\TicTacToe-AI-DataMining.csprojResolveAssemblyReference.cache
 C:\Users\Paulo\Documents\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\obj\Debug\TicTacToe-AI-DataMining.exe
 C:\Users\Paulo\Documents\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\obj\Debug\TicTacToe-AI-DataMining.pdb
+C:\Users\Paulo\Documents\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\TicTacToe-AI-DataMining\obj\Debug\TicTacToe-AI-DataMining.csproj.CoreCompileInputs.cache
